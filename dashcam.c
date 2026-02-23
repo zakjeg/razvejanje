@@ -2,6 +2,6 @@
 
 int main(){
 
-    printf("feature2")   
+    printf("newfeature1ConflictMergePlease :)")   
 
 }
