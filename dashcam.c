@@ -1,5 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("feture1")   
+
+    printf("feature2")   
+
 }
